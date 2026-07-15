@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Sales Letter</title>
+</head>
+<body bgcolor="white">
+<center>
+<img src="D:\WDD\bookk.jpg" width="200" height="100">
+<h1><font color="darkblue">SALES LETTER</font></h1>
+</center>
+<hr color="darkblue">
+<h3>European Books Ltd.</h3>
+<p>
+20 St. Johns Road<br>
+London SW11 2Q3, England<br>
+Phone: 0171 216 9191<br>
+Fax: 0171 216 0000
+</p>
+<p align="right">
+24<sup>th</sup> December 2019
+</p>
+<p>
+<b>To,</b><br>
+<i>
+IA Library Internationale<br>
+24 Place Marseille<br>
+France
+</i>
+</p>
+<p>
+<b>Subject: Introduction of "Fluent English" Textbook Series</b>
+</p>
+<p>
+<b>Dear Customer,</b>
+</p>
+<p>
+We are pleased to introduce our new series of English textbooks,
+<b>Fluent English</b>, specially designed for upper-intermediate
+and advanced learners.
+</p>
+<p>
+A brochure is enclosed with this letter. Please complete the reply
+coupon and return it before 30<sup>th</sup> June. We will send you
+a specimen copy for your review.
+</p>
+<p>
+If you have any questions regarding this publication, please feel
+free to contact us. We look forward to serving you.
+</p>
+<hr color="darkblue">
+<p align="right">
+Yours Sincerely,<br><br>
+<b>Peter Jones</b><br>
+Marketing Manager
+</p>
+<p>
+<b>Enclosure:</b> Brochure
+</p>
+</body>
+</html>
